@@ -1,1 +1,1 @@
-# pechpech-bot
+# PechPech-BOT
