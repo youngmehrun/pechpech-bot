@@ -1,4 +1,4 @@
-# PechPech-BOT
+# PechPech [TG Bot]
 PechPech Bot is a telegram bot based on pyrogram
 for sending whisper messages in telegram chats.
 
@@ -10,4 +10,5 @@ for sending whisper messages in telegram chats.
 
 ## Run
 first run this to collect pechpech
-- <small><code>git clone https://github.com/youngmehrun/pechpech-bot.zip</code></small>
+- <code>git clone https://github.com/youngmehrun/pechpech.zip</code>
+now set your information (api hash, api id, bot token, etc) in <code>pechpech.py</code>
