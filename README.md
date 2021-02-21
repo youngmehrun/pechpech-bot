@@ -1,7 +1,4 @@
 # PechPech-BOT
-Pyrogram Based Telegram Bot! 🔥
-
-## Overview 
 PechPech Bot is a telegram bot based on pyrogram
 for sending whisper messages in telegram chats.
 
