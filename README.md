@@ -11,6 +11,6 @@ for sending whisper messages in telegram chats.
 ## Run
 1. first run this to collect pechpech :
 ```bash
-git clone https://github.com/youngmehrun/pechpech.zip
+git clone https://github.com/youngmehrun/pechpech -b user
 ```
 2. now set your information in `pechpech.py`
