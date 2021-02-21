@@ -11,5 +11,5 @@ for sending whisper messages in telegram chats.
 ## Run
 first run this to collect pechpech
 - <code>git clone https://github.com/youngmehrun/pechpech.zip</code>
-</br>
+
 now set your information (api hash, api id, bot token, etc) in <code>pechpech.py</code>
