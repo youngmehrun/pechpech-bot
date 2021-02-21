@@ -9,8 +9,8 @@ for sending whisper messages in telegram chats.
 - 🗄 Redis Server [Database]
 
 ## Run
-1. first run this to collect pechpech
+1. first run this to collect pechpech :
 ```bash
-git clone https://github.com/youngmehrun/pechpech.zip</code>
+git clone https://github.com/youngmehrun/pechpech.zip
 ```
-2. now set your information (api hash, api id, bot token, etc) in <code>pechpech.py</code>
+2. now set your information in `pechpech.py`
