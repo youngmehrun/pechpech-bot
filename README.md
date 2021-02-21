@@ -1,3 +1,12 @@
 # PechPech-BOT
-<h3> Simple Telegram Bot For Sending Whisper Messages! <h3>
-<p> Based On Pyrogram 🔥<p>
+Pyrogram Based Telegram Bot! 🔥
+
+## Overview 
+PechPech Bot is a telegram bot based on pyrogram
+for sending whisper messages in telegram chats.
+
+## Requirements 
+- 🐍 Python [3.8 or Above] 
+- 📚 Pyrogram [Library]
+- 📚 Redis [Library]
+- 🗄 Redis Server [Database]
