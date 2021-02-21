@@ -10,3 +10,6 @@ for sending whisper messages in telegram chats.
 - 📚 Pyrogram [Library]
 - 📚 Redis [Library]
 - 🗄 Redis Server [Database]
+
+## Run
+- <code>git clone LINK</code>
