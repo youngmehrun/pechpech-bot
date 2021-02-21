@@ -9,5 +9,5 @@ for sending whisper messages in telegram chats.
 - 🗄 Redis Server [Database]
 
 ## Run
-
-- <code>git clone LINK</code>
+first run this to collect pechpech
+- <small><code>git clone https://github.com/youngmehrun/pechpech-bot.zip</code></small>
