@@ -13,7 +13,7 @@ for sending whisper messages in telegram chats.
 1. first go to <link>https://my.telegram.org/apps</link> and get API_ID & API_HASH
 2. then run this to collect pechpech :
 ```bash
-git clone https://github.com/youngmehrun/pechpech.git
+git clone https://github.com/youngmehrun/pechpech
 ```
 3. now set your information in `pechpech.py`
 ```python
